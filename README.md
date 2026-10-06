@@ -29,3 +29,10 @@ Requisitos
 *Presentar un menú que permita elegir entre las funcionalidades disponibles: agregar productos, visualizar productos, buscar productos y eliminar productos.
 
 *El programa debe continuar funcionando hasta que se elija una opción para salir.
+
+## Código
+
+# [PREPROYECTO](https://github.com/dac4r7/TalentoTech-Python/tree/master#preproyecto.py)
+
+
+
